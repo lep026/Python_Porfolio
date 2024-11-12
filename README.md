@@ -916,6 +916,7 @@ print(numpy.mean(data, axis = 1))
 ```
 
 ## Analyzing_Data_2_Data_Visualization 
+This section includes the work i did for sections 2 and 3 of the Analyzing Data section. 
 
 ```python
 import numpy 
